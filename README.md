@@ -1,1 +1,3 @@
-# book_prediction
+# Book prediction related material
+
+### Animations
