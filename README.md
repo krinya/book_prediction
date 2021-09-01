@@ -24,7 +24,7 @@
 
 #### Animation
 ![animation_4](https://github.com/krinya/book_prediction/blob/main/cumsum_prediction_better.gif)
-![video_1](cumsum_prediction_better.mp4)
+[download mp4 video](cumsum_prediction_better.mp4)
 
 
 ### Book 6
