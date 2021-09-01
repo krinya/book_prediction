@@ -22,6 +22,7 @@
 ### Book 5
 ![static_1](https://github.com/krinya/book_prediction/blob/main/file_show.png)
 ![static_2](https://github.com/krinya/book_prediction/blob/main/file_show_2.png)
+![video_1](cumsum_prediction_better.mp4)
 
 
 ### Book 6
